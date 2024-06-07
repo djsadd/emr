@@ -1,0 +1,17 @@
+20240606:150620 EDI_History Setup should not overwrite existing data.<br />
+Setup: directory C:/OSPanel/domains/openemr.kz/sites/default\documents\edi<br />
+created folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history<br />
+created folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\csv<br />
+created folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\archive<br />
+created folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\log<br />
+created folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\tmp
+folder for f837 exists C:/OSPanel/domains/openemr.kz/sites/default\documents\edi<br />
+created type folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\f997<br />
+created type folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\f276<br />
+created type folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\f277<br />
+created type folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\f270<br />
+created type folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\f271<br />
+created type folder C:/OSPanel/domains/openemr.kz/sites/default\documents\edi\history\f278<br />
+
+20240606:150620 _GET request 
+ csvtbllist => yes  csrf_token_form => da7ada0e71d7da8634de2eed16ecf740a4d6b1b0 
